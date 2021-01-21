@@ -1,17 +1,6 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
-<!-- PROJECT LOGO -->
-<br />
 <p align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/bewbtec/scripts">
+    <img src="http://www.bewb.com.br/wp-content/themes/bewb/assets/images/header-logo.png" alt="Logo">
   </a>
 
   <h3 align="center">Repositório de Scripts Bewb</h3>
