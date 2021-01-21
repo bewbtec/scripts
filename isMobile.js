@@ -1,4 +1,3 @@
-//FUNÇÃO PARA DETECTAR DISPOSITIVO MOBILE
 var isMobile = {
     Android: function() {
         return navigator.userAgent.match(/Android/i);
