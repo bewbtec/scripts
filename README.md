@@ -6,6 +6,6 @@
   <h3 align="center">Repositório de Scripts Bewb</h3>
 
   <p align="center">
-    Repositório com os scripts utilizados com mais frequência em nosso dia à dia.
+    Repositório com os scripts utilizados com mais frequência em nossos websites.
   </p>
 </p>
